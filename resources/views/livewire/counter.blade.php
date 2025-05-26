@@ -1,0 +1,9 @@
+<div>
+    {{-- A good traveler has no fixed plans and is not intent upon arriving. --}}
+    <div class="container text-center mx-auto p-4">
+        <h1 class="text-ceter my-5 text-white text-2xl">Counter {{ $count }}</h1>
+        <button class="p-2 rounded-md  border-2 border-indigo-500 text-white">Incrementa</button>
+        <button class="p-2 rounded-md  border-2 border-indigo-500 text-white">Decrementa</button>
+        <button class="p-2 rounded-md  border-2 border-indigo-500 text-white">Reset</button>
+    </div>
+</div>
